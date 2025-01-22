@@ -14,6 +14,13 @@ So here are ways you can contact me if you wish to,
 
 You can contact me on Signal using my username **skyshovel.16** . Signal is a privacy focused messenger [I suggest you try too!](https://signal.org/). It handles just like WhatsApp or other modern smartphone messaging apps but without the threat of your data being sold or handed over to third parties. 
 
+### I am on BlueSky/Mastodon
+
+I can't say I ever enjoyed the format of Twitter-alikes, but you can find me here if you want: 
+
+[https://bsky.app/profile/spafrost.bsky.social](https://bsky.app/profile/spafrost.bsky.social)
+
+[@spafrost@mastodonapp.uk](https://mastodonapp.uk/@spafrost)
 ### Old Fashioned Mobile Phone or SMS
  I still have and use my UK mobile number ending ***17 for Voice & SMS which I will happily share with you face/face if ou don't already know it. 
 
