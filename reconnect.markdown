@@ -17,7 +17,7 @@ You can contact me on Signal using my username **skyshovel.16** . Signal is a pr
 ### Old Fashioned Mobile Phone or SMS
  I still have and use my UK mobile number ending ***17 for Voice & SMS which I will happily share with you face/face if ou don't already know it. 
 
- ### Using Email
+### Using Email
 Email my forename at this websites domain name and we can connect that way if you prefer. 
 
 ### On LinkedIn
