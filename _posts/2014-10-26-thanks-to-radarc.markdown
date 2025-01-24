@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thanks RADARC"
-date:   2014-26 10:50:18 +0000
+date:   2014-10-26 10:50:18 +0000
 categories: updates me ham radio
 ---
 
