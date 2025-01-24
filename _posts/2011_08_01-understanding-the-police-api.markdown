@@ -16,7 +16,8 @@ While looking through the details of the API fo r this, I realised – this real
 **Desktop Proof Of Concept**
 This is a simple class with a single function that prints out the HTTP response. This serves simply to ensure that the API is working and returning Data. Pop in your API password and it should work straight away.
 
-`using System;
+```
+using System;
 using System.Text;
 using System.Net;
 using System.IO;
@@ -55,13 +56,15 @@ using System.Web;
                 throw new Exception("Could Not Complete Web Query ("+ee.Message+")");
             }
         }
-}`
+}
+```
 
 This function simply creates a new .NET WebRequest object, this neat little object encapsulates the process of making a request to a URI and provides a few methods for getting the response.
 
 In the case, its sister object WebReponse takes the response and allows us to write it down to a stream, with the help of the StreamReader class , this means we can now write the stream down to a local string, and voila , theres the response. Some Lovely JSON…
 
-`[
+```
+[
     {
         "category": "vehicle-crime",
         "id": 1976260,
@@ -146,6 +149,7 @@ In the case, its sister object WebReponse takes the response and allows us to wr
         "context": "",
         "month": "2011-06"
     }
-]`
+]
+```
 
 Now I knew that the API works as expected, on to coding it up for Windows Phone 7, See my part 2 Post on how!
