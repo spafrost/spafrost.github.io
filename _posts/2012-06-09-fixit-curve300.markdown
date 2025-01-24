@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Technical Fixit: Comfort Curve 3000 Keyboard"
+date:   2012-06-09 10:50:18 +0000
+categories: tech fixit
+---
+
+While at the local supermarket, I happened upon a reduced, but brand new in box, Microsoft Comfort Curve keyboard. For a few quid, I was not one to argue and gleefully stuffed it into my trolley, After all the Tesco value keyboard I had been using  was well past its hygienic and useful life.
+
+When I got home, I happily ripped the PS/2 keyboard off my desk, re-routed my USB hub and plugged in the new item. For a few minutes everything was good, until of course I tried to use the S and A keys. It was at this point my heart sank, the keyboard was faulty. My mind was awash with predictions of trial by fire when trying to return and end of line, reduced item which only cost a few quid. Having worked in retail, I knew the £3 keyboard was not worth the petrol to get back to the store.
+
+At this point I figured I may as well rip it apart, maybe I can solder something to get it working again, my oscilloscope is always sat on my desk ready. You can imagine the shock that came, when after removing around 25 screws, I found no PCB in sight. I suppose I should have known from the outset that a modern cheap keyboard would have some fancy internal workings, I was greeted with three plastic films, covered in a conductive web.
+
+
+![Keyboard Internals](./img/curve3000-1.jpg)
+
+Upon closer inspection, the problem is obvious, someone has nicked the film when assembling the keyboard and cut the sensor current to the feed pads. A quick lick of the finger and a broad press across the area confirms the problem . How a keyboard got past QC with two keys failed I don’t know ! I stopped for a moment and thought, then grabbed an old woodwork pencil on my desk, a little colouring later and a quick test and the keys are alive again !
+
+[Keyboard Internals](./img/curve3000-2.jpg)
+
+A few million screws later, and I have finally saved myself a few quid ! From writing this post, I can also confirm the keyboard is pretty nice to use, and the Windows key mappings printed are quite cool! Not to mention it has a calculator button, a total requirement, at least for all my future keyboards.
+
+[Keyboard On Desk](./img/curve3000-3.jpg)
+
