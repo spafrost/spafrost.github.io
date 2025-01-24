@@ -12,13 +12,13 @@ When I got home, I happily ripped the PS/2 keyboard off my desk, re-routed my US
 At this point I figured I may as well rip it apart, maybe I can solder something to get it working again, my oscilloscope is always sat on my desk ready. You can imagine the shock that came, when after removing around 25 screws, I found no PCB in sight. I suppose I should have known from the outset that a modern cheap keyboard would have some fancy internal workings, I was greeted with three plastic films, covered in a conductive web.
 
 
-![Keyboard Internals](./img/curve3000-1.jpg)
+![Keyboard Internals](https://spafrost.me/img/curve3000-1.jpg)
 
 Upon closer inspection, the problem is obvious, someone has nicked the film when assembling the keyboard and cut the sensor current to the feed pads. A quick lick of the finger and a broad press across the area confirms the problem . How a keyboard got past QC with two keys failed I don’t know ! I stopped for a moment and thought, then grabbed an old woodwork pencil on my desk, a little colouring later and a quick test and the keys are alive again !
 
-[Keyboard Internals](./img/curve3000-2.jpg)
+![Keyboard Internals](https://spafrost.me/img/curve3000-2.jpg)
 
 A few million screws later, and I have finally saved myself a few quid ! From writing this post, I can also confirm the keyboard is pretty nice to use, and the Windows key mappings printed are quite cool! Not to mention it has a calculator button, a total requirement, at least for all my future keyboards.
 
-[Keyboard On Desk](./img/curve3000-3.jpg)
+![Keyboard On Desk](https://spafrost.me/img/curve3000-3.jpg)
 
