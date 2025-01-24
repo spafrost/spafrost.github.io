@@ -4,6 +4,7 @@ title:  "Swollen Li-Ion Battery in Ubiquiti Unifi Cloud Key Gen 2+"
 date:   2020-09-04 10:50:18 +0000
 categories: tech networking lab
 ---
+
 If your Cloud Key doesn’t gracefully shut down anymore, the Li-Ion battery inside may be swollen like mine was. 
 
 Let me preface this. I love my UniFi gear, its been reliable and easy to use and I would buy it again – I have recommended similar to friends and family. This could just be an edge case and doesn’t mean they will all do this. I am not looking for compensation or publicity. I am posting this so that others who are out of warranty can get in and resolve this issue without having to “discover as they disassemble”. Batteries can be dangerous, follow this at your own risk – I take no responsibility if you follow these instructions and cause personal injury or property damage. Batteries and Electronics can be dangerous, if in doubt – consult a qualified professional. 
